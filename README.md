@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the monday.com app calls [The Fetcher](https:/vokly.pl).<br>🌱 I’m currently learning Next.js, React.js, Node.js, Docker, and DevOps.<br>📫 How to reach me: https://x.com/dyktafon1
+🔭 I’m currently working on the monday.com app calls [The Fetcher](https://vokly.pl).<br>🌱 I’m currently learning Next.js, React.js, Node.js, Docker, and DevOps.<br>📫 How to reach me: https://x.com/dyktafon1
 
 
 ## 🌐 Socials:
